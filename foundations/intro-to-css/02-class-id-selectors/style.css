@@ -1,0 +1,11 @@
+.class{
+    background-color: hsl(360, 100%, 80%);
+    font-family:'Verdana', 'DejaVu Sans', sans-serif;
+}
+#num2{
+    color: blue;
+    font-size: 36px;
+}
+#num3{
+    font-size: 24px;
+}
